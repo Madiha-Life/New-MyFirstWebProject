@@ -1,8 +1,8 @@
  *{
    margin: 0px;
-  }
+ }
  
-  .Main{
+ .Main{
     background-image: url(main.jpg);
     height: 390px;
     background-repeat: round;
@@ -208,7 +208,7 @@
   .footer2 h4{
     font-size: 16px;
     color: #62D0E1;
-    margin-right: 60px;
+    margin-right: 160px;
     margin-top: 30px;
     margin-bottom: 10px;
   }
@@ -216,6 +216,7 @@
   #email a{
    color:#62D0E1;
    text-decoration: none;
+   margin-right: 160px;
   }
   
   #email a:hover{
