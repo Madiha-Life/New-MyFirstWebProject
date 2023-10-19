@@ -126,7 +126,7 @@
   .C-heading{
     margin-top: 10px;
     padding: 10px;
-    margin-left: 220px;
+    margin-left: 235px;
     background-color:#023550;
     margin-right: 220px;
     font-weight: bold;
@@ -165,7 +165,7 @@
     border-radius: 20px;
     border: 5px dotted #30B3F4;
     outline: 8px solid #0C6085;
-    box-shadow: 3px 3px 2px 16px black;
+    box-shadow: 3px 3px 2px 16px #074578;
   }
   
   .offer2{
@@ -180,7 +180,7 @@
     margin-right:80px;
     border-radius: 20px;
     border: 5px dotted #38C4ED;
-    outline: 5px solid #30B3F4;
+    outline: 5px solid #0C6085;
     box-shadow:3px 3px 2px 12px #074759;
   }
   
