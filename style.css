@@ -43,10 +43,10 @@
   .bar a:hover{
     color: #B90A75;
     background-color:#06A094;
-    border-radius: 2px;
+    border-radius: 10px;
     font-size: 14px;
     border: 2px solid #7E064F;
-    padding: 5px;
+    padding: 3px 10px 3px 10px;
   }
   
   .bar button{
@@ -181,7 +181,7 @@
     border-radius: 20px;
     border: 5px dotted #38C4ED;
     outline: 5px solid #0C6085;
-    box-shadow:3px 3px 2px 12px #074759;
+    box-shadow: 3px 3px 2px 12px #074759;
   }
   
   h3{
@@ -224,7 +224,7 @@
     background-color: #6F0646;
     border-radius:25px;
     border: 5px solid #62D0E1;
-    padding: 5px;
+    padding: 3px 10px 3px 10px;
   }
 
   #footer3 ul li a{
@@ -239,12 +239,13 @@
   #footer3 a:hover{
     color: yellow;
     background: #6F0646;
-    border-radius: 25px;
+    border-radius: 5px;
     font-weight: bold;
     font-size: 10px;
-    border: 3px solid #62D0E1;
+    border: 3px solid #62D031;
+    padding: 3px 6px 3px 6px;
   }
-  
+
   #footer3 ul{
     list-style: none;
     margin-bottom: 4px;
