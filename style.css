@@ -245,8 +245,9 @@
     border: 3px solid #62D0E1;
   }
   
-  #footer3 ul {
+  #footer3 ul{
     list-style: none;
+    margin-bottom: 4px;
   }
  
   .copy{
