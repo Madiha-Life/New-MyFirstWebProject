@@ -16,14 +16,14 @@
   }
     
   .top img{
-    margin-top:10px;
+    margin-top: 10px;
     width: 70px;
-    height:40px;
+    height: 40px;
   }
  
   .bar{
-    background-color:#9BC7CE;
-    margin-top:10px;
+    background-color: #9BC7CE;
+    margin-top: 10px;
     display: flex;
     justify-content: space-evenly;
     font-weight: bold ;
@@ -35,14 +35,14 @@
   .bar a{
     margin-top: 10px;
     text-decoration: none;
-    color:#073F51;
+    color: #073F51;
     font-weight: bold;
     font-size: 12px;
   }
   
   .bar a:hover{
     color: #B90A75;
-    background-color:#06A094;
+    background-color: #06A094;
     border-radius: 10px;
     font-size: 14px;
     border: 2px solid #7E064F;
@@ -70,11 +70,11 @@
     text-align: center;
     font-size: 30px;
     margin-top: 35px;
-    margin-bottom:10px;
+    margin-bottom: 10px;
   }
  
   .midB{
-    color:#FFDFDF;
+    color: #FFDFDF;
     text-align: center;
     font-weight: bold;
     font-size: 20px;
@@ -84,7 +84,7 @@
   .midC{
     display: flex;
     margin-top: 25px;
-    margin-bottom:35px;
+    margin-bottom: 35px;
   }
 
   #btnA button{
@@ -98,11 +98,11 @@
   }
 
   #btnB button{
-    margin-left:20px;
+    margin-left: 20px;
     margin-top: 10px;
     color: #12A6C2;
     background-color: #0D4758;
-    box-shadow:2px 2px 2px grey;
+    box-shadow: 2px 2px 2px grey;
     border-radius: 25px;
     padding: 5px 10px 5px 10px;
   }
@@ -127,7 +127,7 @@
     margin-top: 10px;
     padding: 10px;
     margin-left: 235px;
-    background-color:#023550;
+    background-color: #023550;
     margin-right: 220px;
     font-weight: bold;
     display: flex;
@@ -141,10 +141,10 @@
   }
   
   #heading1{
-   padding:15px;
-   color:#03A7C1;
+   padding: 15px;
+   color: #03A7C1;
    font-weight: bold;
-   background-color:#163C42;
+   background-color: #163C42;
    border-radius: 30px;
    font-size: 18px;
    text-transform: uppercase;
@@ -153,15 +153,15 @@
   
   .offer{
     height: 260px;
-    margin-left:120px ;
-    display:flex;
+    margin-left: 120px ;
+    display: flex;
     margin-top: 55px;
   }
       
   .offer img{
     height: 150px;
-    width:180px;
-    margin-right:80px;
+    width: 180px;
+    margin-right: 80px;
     border-radius: 20px;
     border: 5px dotted #38C4ED;
     outline: 5px solid #0C6085;
@@ -169,15 +169,15 @@
   }
   
   .offer2{
-    display:flex;
+    display: flex;
     margin-left: 120px;
     margin-bottom: 40px;
   }
       
   .offer2 img{
     height: 150px;
-    width:180px;
-    margin-right:80px;
+    width: 180px;
+    margin-right: 80px;
     border-radius: 20px;
     border: 5px dotted #38C4ED;
     outline: 5px solid #0C6085;
@@ -214,7 +214,7 @@
   }
   
   #email a{
-   color:#62D0E1;
+   color: #62D0E1;
    text-decoration: none;
    margin-right: 160px;
   }
@@ -222,13 +222,13 @@
   #email a:hover{
     color: yellow;
     background-color: #6F0646;
-    border-radius:25px;
+    border-radius: 25px;
     border: 5px solid #62D0E1;
     padding: 3px 10px 3px 10px;
   }
 
   #footer3 ul li a{
-    color:#62D0E1;
+    color: #62D0E1;
     font-size: 10px;
     text-transform: uppercase;
     padding: 3px;
